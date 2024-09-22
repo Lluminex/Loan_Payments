@@ -1,9 +1,5 @@
 /*
  *Levi Hoffer
- *ljh0047
- *project1_HofferLevi_ljh0047
- *How to compile: g++ project1_HofferLevi_ljh0047.cpp
- *./a.out
 */
 #include <iostream>
 using namespace std;
